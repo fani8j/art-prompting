@@ -1,6 +1,6 @@
 # The Art of Prompt Engineering by Cognitive Class AI
 ## Author : Sina Nazeri (PhD.)
-## Mentor : Kak Fariddd
+## Mentor : Kak Fariqqq
 
 ### Mentee asignment from IBM Advance Ai Class @ Infinte Learning Indonesia
 
